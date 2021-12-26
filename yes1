@@ -22,7 +22,7 @@ defaultConfig = {
     autoskill3 = true;
     raidfarm = true;
     raid = "Nest of the Colossal";
-    raidfarmhardcore = true;
+    raidfarmhardcore = false;
     version = ver;
 }
 if not isfile(FTS .. "/configs/config.json") then
