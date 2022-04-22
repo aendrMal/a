@@ -75,7 +75,7 @@ Window:AddSlider({
     min = 0.001,
     max = 2,
     value = 1,
-    float = 0.01
+    float = 0.001
 })
 Box_1 = Window:AddBox({
     text = "AutoClick Position:",
