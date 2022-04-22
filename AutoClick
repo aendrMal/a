@@ -55,7 +55,7 @@ Window:AddBind({
         -- Click Position
         if Enabled then
             -- Update Mouse Pos
-            X, Y = Mouse.X, Mouse.Y + 10
+            X, Y = Mouse.X, Mouse.Y
             -- Update Box
             Box_1:SetValue()
         else
