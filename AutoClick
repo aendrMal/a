@@ -21,7 +21,7 @@ end
 
 --UI Lib
 local Library = loadstring(game:HttpGetAsync('https://pastebin.com/raw/edJT9EGX'))()
-local Window = Library:CreateWindow("I Like Your Mom")
+local Window = Library:CreateWindow("🌌‼😲‼")
 Enabled_1 = Window:AddColor({
     text = 'Status:',
     flag = "You_1",
