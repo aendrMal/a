@@ -25,9 +25,9 @@ function lib:AddAIOutline(Character, OutlineFill)
    
    if OutlineFill then
        Highlight.FillColor = Color3.fromHSV(tick() % 20/20, 1, 1)
-       Highlight.FillTransparency = 0
+       Highlight.FillTransparency = 1
    else
-       Highlight.FillTransparency = 0
+       Highlight.FillTransparency = 1
    end
 end
 
