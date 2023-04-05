@@ -20,7 +20,7 @@ if not pcall(function() return syn.protect_gui end) then
 end
 
 --UI Lib
-local Library = loadstring(game:HttpGetAsync('https://pastebin.com/raw/edJT9EGX'))()
+local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/aendrMal/a/main/AutoClick%20new%20uwu'))()
 local Window = Library:CreateWindow("🌌‼😲‼")
 Enabled_1 = Window:AddColor({
     text = 'Status:',
